@@ -1,0 +1,8 @@
+#to find lyrics
+python3 text.py
+
+#to run server
+python3 manage.py runserver
+
+#to manage songs
+/admin(after the link)
